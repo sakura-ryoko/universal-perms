@@ -6,11 +6,10 @@
   "mixins": [
     "CommandManagerMixin",
     "CommandNodeAccess",
-    "EntityArgumentTypeMixin",
     "EntitySelectorMixin",
-    "MessageFormatMixin",
-    "PlayerManagerMixin",
+    "EntitySelectorReaderMixin",
     "PlayerEntityMixin",
+    "PlayerManagerMixin",
     "ServerPlayerEntityMixin",
     "ServerPlayNetworkHandlerMixin"
   ],
